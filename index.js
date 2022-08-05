@@ -13,7 +13,7 @@ var arr= [{
     answer: "CSK"
   } ,{
     question: "What is my wife name? ",
-    answer: "NA"
+    answer: "Preeti"
   }, {
     question: "Where do I live? ",
     answer: "punjab"
